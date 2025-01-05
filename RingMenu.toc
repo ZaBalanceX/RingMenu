@@ -2,6 +2,7 @@
 ## Title: RingMenu
 ## Author: jsb
 ## Version: 1.0.2
+## Notes: Adds an additional circular action bar
 ## SavedVariablesPerCharacter: RingMenu_settings
 RingMenuSettingsTemplates.xml
 RingMenuSettings.lua
